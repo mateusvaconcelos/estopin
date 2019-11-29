@@ -1,0 +1,17 @@
+Time : 01:56:59
+SQLSTATE[HY000] [1049] Unknown database 'petshop'
+
+Time : 01:56:13
+SQLSTATE[HY000] [1049] Unknown database 'petshop'
+
+Time : 01:56:05
+SQLSTATE[HY000] [1049] Unknown database 'petshop'
+
+Time : 01:55:52
+SQLSTATE[HY000] [1049] Unknown database 'petshop'
+
+Time : 01:22:43
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue
+
+Time : 01:22:35
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue

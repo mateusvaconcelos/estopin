@@ -1,0 +1,14 @@
+Time : 01:35:05
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`petshop`.`pets`, CONSTRAINT `pets_ibfk_1` FOREIGN KEY (`cd_tipo_shampoo`) REFERENCES `tipo_shampoo_pet` (`cd_tipo_shampoo`))
+Raw SQL : INSERT INTO pets  
+					(cd_usuario,nm_pet,cd_raca_pet, 
+					 cd_tipo_shampoo,ds_info)  
+					VALUES  
+					(:usuario,:nmPet,:tpRaca, 
+					 :tpShampoo,:dsInfo)
+
+Time : 00:29:44
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue
+
+Time : 00:26:46
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue

@@ -1,0 +1,12 @@
+Time : 01:45:41
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : update perfil_usuario set 
+						 nm_perfil = :nome, 
+						 ds_cor = :cor 
+					where 
+						cd_perfil = :cod
+
+Time : 00:21:01
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo

@@ -1,0 +1,16 @@
+Time : 02:47:59
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : insert into usuario  
+						(nm_usuario, cd_perfil, ds_email,  
+						 ds_senha, fg_ativo, tp_sexo, 
+						 fg_idoso, fg_vip, fg_nec_especial, 
+						 ds_nec_especial, dt_cadastro 
+						 )  
+						values  
+						(:nmUsuario, 2, :dsEmail,  
+						:dsSenha, 1, :sexo, 
+						:idoso, :vip, :especial,  
+						:dsEspecial, now())
+
+Time : 01:26:00
+SQLSTATE[HY000] [1049] Unknown database 'petshop'

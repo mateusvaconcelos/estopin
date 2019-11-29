@@ -1,0 +1,42 @@
+Time : 01:14:24
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:35
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:35
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:35
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:35
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:35
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:12:34
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:11:33
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nm_usuario' cannot be null
+Raw SQL : insert into usuario (nm_usuario, cd_perfil, ds_email, ds_senha, fg_ativo) values  
+			(:nmUsuario, 2, :dsEmail, :dsSenha, 1)
+
+Time : 01:09:57
+SQLSTATE[HY000] [1049] Unknown database 'petshop'

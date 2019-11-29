@@ -1,0 +1,35 @@
+Time : 23:11:41
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 23:11:40
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 23:11:34
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 23:11:32
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 23:11:30
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 23:08:39
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`petshop`.`usuario`, CONSTRAINT `usuario_ibfk_1` FOREIGN KEY (`cd_perfil`) REFERENCES `perfil_usuario` (`cd_perfil`))
+Raw SQL : delete from perfil_usuario 
+										where cd_perfil = :codigo
+
+Time : 22:38:07
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue
+
+Time : 22:38:00
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue

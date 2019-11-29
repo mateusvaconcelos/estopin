@@ -1,0 +1,2 @@
+Time : 23:42:37
+SQLSTATE[HY000] [1049] Base 'petshop' inconnue
